@@ -1,5 +1,5 @@
 import React from 'react'
-import resumepdf from './Jagadeesh-Resume-FullStack.pdf'
+import resumepdf from './Jagadeesh-Resume-FullStack .pdf'
 
 const AboutMe = () => {
   return (

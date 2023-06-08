@@ -1,6 +1,6 @@
 import React from 'react'
 import jimg from './Capture1.jpg'
-import resumepdf from './Jagadeesh-Resume-FullStack.pdf'
+import resumepdf from './Jagadeesh-Resume-FullStack .pdf'
 
 const Home = () => {
   return (
